@@ -52,3 +52,10 @@ I use the `vintage` plugin that makes Sublime act like vim (you may not want thi
 ```json
 "ignored_packages": ["Vintage"]
 ```
+
+To get [RubyMarkers](https://github.com/mmims/sublime-text-2-ruby-markers) to work, you will need to install `rcodetools` into your system ruby. To do so:
+
+```bash
+$ rbenv local system
+$ gem install rcodetools
+```
