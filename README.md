@@ -28,7 +28,7 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 2/
 Clone the settings repository using the command below:
 
 ```bash
-$ rm -rf User
+$ rm -rf Packages
 $ git clone https://github.com/dickeyxxx/sublime.git Packages
 ```
 
