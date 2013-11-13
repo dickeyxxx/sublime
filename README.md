@@ -29,7 +29,7 @@ Clone the settings repository using the command below:
 
 ```bash
 $ rm -rf User
-$ git clone https://github.com/dickeyxxx/Sublime-Text-2-User-Settings.git User
+$ git clone https://github.com/dickeyxxx/sublime.git User
 ```
 
 Notes
