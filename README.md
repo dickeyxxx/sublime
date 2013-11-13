@@ -22,14 +22,14 @@ Installation
 Go to your Sublime Text 2 Packages directory:
 
 ```bash
-cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/
 ```
 
 Clone the settings repository using the command below:
 
 ```bash
 $ rm -rf User
-$ git clone https://github.com/dickeyxxx/sublime.git User
+$ git clone https://github.com/dickeyxxx/sublime.git Packages
 ```
 
 Notes
